@@ -27,21 +27,28 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue\
 \
 Vulnerability #1: SQL\
+
+<a href="https://imgur.com/5d2ToiE"><img src="https://i.imgur.com/5d2ToiE.gif" title="source: imgur.com" /></a>
 \
 Vulnerability #2: Session Hijacking/Fixation\
+
+<a href="https://imgur.com/7AxpTKD"><img src="https://i.imgur.com/7AxpTKD.gif" title="source: imgur.com" /></a>
 \
 \
 ## Green\
 \
 Vulnerability #1: User Enumeration\
+<a href="https://imgur.com/BlxRWts"><img src="https://i.imgur.com/BlxRWts.gif" title="source: imgur.com" /></a>
 \
 Vulnerability #2: XSS\
+<a href="https://imgur.com/BMABuP5"><img src="https://i.imgur.com/BMABuP5.gif" title="source: imgur.com" /></a>
 \
 \
 ## Red\
 \
 Vulnerability #1: IDOR\
-\
+<a href="https://imgur.com/SzXV9qo"><img src="https://i.imgur.com/SzXV9qo.gif" title="source: imgur.com" /></a>
+
 Vulnerability #2: I\'92m guessing CSRF?? I couldn\'92t really find this one. \
 \
 Here is the Google drive with all of the GIFS on it: https://drive.google.com/drive/folders/1b60bfvS72LBTxxWQl86dovY97aFmToMt?usp=sharing\
